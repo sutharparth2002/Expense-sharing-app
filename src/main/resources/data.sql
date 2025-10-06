@@ -1,0 +1,15 @@
+INSERT INTO users (id, name, email, phone, password) VALUES
+(1, 'Parth', 'parth@example.com', '9876543201', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(2, 'Gaurav Bhutani', 'gaurav.bhutani@example.com', '9876543202', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(3, 'Gaurav Dalal', 'gaurav.dalal@example.com', '9876543203', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(4, 'Pratibha', 'pratibha@example.com', '9876543204', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(5, 'Varun Singh', 'varun.singh@example.com', '9876543205', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(6, 'Archita', 'archita@example.com', '9876543206', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(7, 'Fahad', 'fahad@example.com', '9876543207', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(8, 'Atul', 'atul@example.com', '9876543208', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(9, 'Ashutosh', 'ashutosh@example.com', '9876543209', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(10, 'Pulkit', 'pulkit@example.com', '9876543210', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(11, 'Kanika', 'kanika@example.com', '9876543211', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(12, 'Soumith', 'soumith@example.com', '9876543212', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(13, 'Priyal', 'priyal@example.com', '9876543213', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW'),
+(14, 'Akash', 'akash@example.com', '9876543214', '$2a$10$NZISy.qNisFzf6P.nJJNn.ESLZy1YR9mxA6A1JGh1IqNg2X3fjhLW');
